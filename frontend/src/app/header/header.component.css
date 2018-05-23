@@ -1,0 +1,27 @@
+.HeaderMenu{
+    margin-left: 3%;
+    margin-top: -2%;
+    border: none;
+    color: blue;
+    background-color: transparent;
+    display:flowroot;
+}
+
+.header-img-size{
+    width : 9%;
+    margin-left: 0%;
+}
+.topnav.responsive a {
+    float: none;
+    /* display: block; */
+    /* text-align: left; */
+    border: none;
+    background-color: transparent;
+
+  }
+  .Header{
+    margin-left: 9%;
+    margin-top: -2%;
+    display:flowroot;
+
+  }
